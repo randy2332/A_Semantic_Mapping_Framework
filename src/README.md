@@ -57,7 +57,7 @@
       visualize: True
     ```
     
-    I put the ckpt in the  **[link](https://drive.google.com/drive/folders/1LOlHpI4yn2hna21tYqCaTEJ4wOKhp44).  Check the model!**
+    I put the ckpt in the  **[link](https://drive.google.com/drive/folders/1LOlHpI4yn2hna21tYqCaTEJ4wOKhp440?usp=drive_link).  Check the model!**
     
 - run **[eval_multipro.py](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/src/eval_multipro.py)**
     
