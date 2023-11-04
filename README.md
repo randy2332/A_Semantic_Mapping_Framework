@@ -156,7 +156,7 @@ Task1:
 
 ![dataset2floor1result.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/dataset2floor1result.png)
 
-                               Semantic map (trained on other scenes)
+  -Semantic map (trained on other scenes)
 
 ![dataset1floor1result.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/dataset1floor1result.png)
 
