@@ -164,7 +164,7 @@ Task1:
 
                                                    Semantic map (ground truth)
 
-![floor2gt.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/floor2.png)
+![floor2gt.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/floor2gt.png)
 
                                      Semantic map (trained on apartment_0)
 
