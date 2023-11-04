@@ -105,25 +105,25 @@ Task1:
     
                       rgb 			                 ground truth                                 prediction	
     
-    ![1.png](NYCU-perception-and-decision-making-in-intelligent%205dcd604d56b14e009e398d650fcda861/1.png)
+    ![1.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/1.png)
     
 - Pictures trained by Dataset1/ floor2
     
                       rgb 			                 ground truth                                 prediction	
     
-    ![2.png](NYCU-perception-and-decision-making-in-intelligent%205dcd604d56b14e009e398d650fcda861/2.png)
+    ![2.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/2.png)
     
 - Pictures trained by Dataset2/ floor1
     
                       rgb 			                 ground truth                                 prediction	
     
-    ![3.png](NYCU-perception-and-decision-making-in-intelligent%205dcd604d56b14e009e398d650fcda861/3.png)
+    ![3.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/3.png)
     
 - Pictures trained by Dataset2/ floor2
     
                       rgb 			                 ground truth                                 prediction	
     
-    ![4.png](NYCU-perception-and-decision-making-in-intelligent%205dcd604d56b14e009e398d650fcda861/4.png)
+    ![4.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/4.png)
     
                                                 Iou and accuracy
     
