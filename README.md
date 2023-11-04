@@ -148,9 +148,9 @@ Task1:
     
 - floor1
 
-                                                   Semantic map (ground truth)
+  					Semantic map (ground truth)
 
-![dataset1floor1gt.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/floor1.png)
+![dataset1floor1gt.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/floor1gt.png)
 
                                      Semantic map (trained on apartment_0)
 
@@ -162,7 +162,7 @@ Task1:
 
 - floor2
 
-                                                   Semantic map (ground truth)
+  				Semantic map (ground truth)
 
 ![floor2gt.png](https://github.com/randy2332/NYCU-perception-and-decision-making-in-intelligent-systems-hw2/blob/main/pictures/floor2gt.png)
 
