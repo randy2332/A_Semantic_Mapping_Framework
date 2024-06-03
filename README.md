@@ -1,6 +1,6 @@
-# NYCU-perception-and-decision-making-in-intelligent-systems-hw2
 
-In this homework, we
+
+In this project, we
 
 - Train a semantic segmentation model to predict objects in the
     
